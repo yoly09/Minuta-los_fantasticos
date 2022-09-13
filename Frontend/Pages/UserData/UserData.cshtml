@@ -1,0 +1,14 @@
+﻿@page
+@model Frontend.Pages.UserDataModel
+@{
+}
+
+<table class="table">
+    @foreach (var dato in Model.DatoUser)
+    {
+        <tr>
+            <td>@dato.Nombre</td>
+            <td>@dato.Edad</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AplicacionWeb.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/AplicacionWeb.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AplicacionWeb.Dominio.dll": {}
+        }
+      },
+      "AplicacionWeb.Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "AplicacionWeb.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AplicacionWeb.Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AplicacionWeb.Persistencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicacionWeb.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../AplicacionWeb.Dominio/AplicacionWeb.Dominio.csproj",
+      "msbuildProject": "../AplicacionWeb.Dominio/AplicacionWeb.Dominio.csproj"
+    },
+    "AplicacionWeb.Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../AplicacionWeb.Persistencia/AplicacionWeb.Persistencia.csproj",
+      "msbuildProject": "../AplicacionWeb.Persistencia/AplicacionWeb.Persistencia.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "AplicacionWeb.Dominio >= 1.0.0",
+      "AplicacionWeb.Persistencia >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\131el\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\131el\\Desktop\\proyect\\fron\\Minuta-los_fantasticos\\Frontend\\Frontend.csproj",
+      "projectName": "Frontend",
+      "projectPath": "C:\\Users\\131el\\Desktop\\proyect\\fron\\Minuta-los_fantasticos\\Frontend\\Frontend.csproj",
+      "packagesPath": "C:\\Users\\131el\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\131el\\Desktop\\proyect\\fron\\Minuta-los_fantasticos\\Frontend\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\131el\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\131el\\Desktop\\proyect\\fron\\Minuta-los_fantasticos\\AplicacionWeb.Dominio\\AplicacionWeb.Dominio.csproj": {
+              "projectPath": "C:\\Users\\131el\\Desktop\\proyect\\fron\\Minuta-los_fantasticos\\AplicacionWeb.Dominio\\AplicacionWeb.Dominio.csproj"
+            },
+            "C:\\Users\\131el\\Desktop\\proyect\\fron\\Minuta-los_fantasticos\\AplicacionWeb.Persistencia\\AplicacionWeb.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\131el\\Desktop\\proyect\\fron\\Minuta-los_fantasticos\\AplicacionWeb.Persistencia\\AplicacionWeb.Persistencia.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Persistencia\obj\Debug\netstandard2.0\AplicacionWeb.Persistencia.csprojAssemblyReference.cache
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Persistencia\obj\Debug\netstandard2.0\AplicacionWeb.Persistencia.AssemblyInfoInputs.cache
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Persistencia\obj\Debug\netstandard2.0\AplicacionWeb.Persistencia.AssemblyInfo.cs
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\aplicacionweb.persistencia\bin\Debug\netstandard2.0\AplicacionWeb.Persistencia.deps.json
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\aplicacionweb.persistencia\bin\Debug\netstandard2.0\AplicacionWeb.Persistencia.dll
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\aplicacionweb.persistencia\bin\Debug\netstandard2.0\AplicacionWeb.Persistencia.pdb
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\aplicacionweb.persistencia\bin\Debug\netstandard2.0\AplicacionWeb.Dominio.dll
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\aplicacionweb.persistencia\bin\Debug\netstandard2.0\AplicacionWeb.Dominio.pdb
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\aplicacionweb.persistencia\obj\Debug\netstandard2.0\AplicacionWeb.Persistencia.csproj.CopyComplete
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\aplicacionweb.persistencia\obj\Debug\netstandard2.0\AplicacionWeb.Persistencia.dll
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\aplicacionweb.persistencia\obj\Debug\netstandard2.0\AplicacionWeb.Persistencia.pdb

@@ -1,0 +1,8 @@
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\bin\Debug\netstandard2.0\AplicacionWeb.Dominio.deps.json
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\bin\Debug\netstandard2.0\AplicacionWeb.Dominio.dll
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\bin\Debug\netstandard2.0\AplicacionWeb.Dominio.pdb
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.csprojAssemblyReference.cache
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.AssemblyInfoInputs.cache
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.AssemblyInfo.cs
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.dll
+C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.pdb
