@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u2CnIetqC5dUx8t4N3RvUnFzXdRH1mC68Fmp9ZU3xuoYxKO9QOO1nsWskWR6b/gEhckpRhHmjbOj0LDabtEUWQ==",
+  "success": true,
+  "projectFilePath": "D:\\ProyectoMinuta\\Minuta-los_fantasticos\\AplicacionWeb.Dominio\\AplicacionWeb.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\braya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\braya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

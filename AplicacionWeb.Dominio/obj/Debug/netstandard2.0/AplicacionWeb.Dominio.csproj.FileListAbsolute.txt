@@ -6,3 +6,13 @@ C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio
 C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.AssemblyInfo.cs
 C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.dll
 C:\Users\131el\Desktop\proyect\fron\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.pdb
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\bin\Debug\netstandard2.0\AplicacionWeb.Dominio.deps.json
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\bin\Debug\netstandard2.0\AplicacionWeb.Dominio.dll
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\bin\Debug\netstandard2.0\AplicacionWeb.Dominio.pdb
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.csproj.AssemblyReference.cache
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.AssemblyInfoInputs.cache
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.AssemblyInfo.cs
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.csproj.CoreCompileInputs.cache
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.dll
+D:\ProyectoMinuta\Minuta-los_fantasticos\AplicacionWeb.Dominio\obj\Debug\netstandard2.0\AplicacionWeb.Dominio.pdb
