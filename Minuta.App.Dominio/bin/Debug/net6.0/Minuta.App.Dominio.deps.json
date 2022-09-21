@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Minuta.App.Dominio/1.0.0": {
+        "runtime": {
+          "Minuta.App.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minuta.App.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

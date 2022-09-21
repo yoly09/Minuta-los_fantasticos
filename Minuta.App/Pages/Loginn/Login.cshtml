@@ -1,0 +1,33 @@
+﻿@page
+@model Minuta.App.LoginModel
+@{
+}
+<h1>Residentes</h1>
+<table class="table">
+    @foreach (var item in Model.DatosUsser)
+    {
+        <tr>
+        <td>@item.Id</td>
+        <td>@item.Edad</td>
+        <td>@item.Nombre</td>
+        <td>
+            <a asp-page="./Detalle" class="btn btn-primary table-btn" asp-route-LoginID=@item.Id>
+                <i class="bi bi-info-circle"></i>
+                Detalle
+            </a>
+            <a asp-page="./Editar" class="btn btn-success table-btn" asp-route-LoginID=@item.Id>
+                <i class="bi bi-pen-fill"></i>
+                Editar
+            </a>
+            <a asp-page= "./Editar" class="btn btn-primary">
+                <i class="bi bi-plus-circle"></i>
+                Agregar
+            </a>
+            <a asp-page="./Eliminar" class="btn btn-success table-btn" asp-route-LoginID=@item.Id>
+            <i class="bi bi-trash2-fill"></i>               
+             Eliminar
+            </a>
+        </td>
+        </tr>
+    }
+</table>

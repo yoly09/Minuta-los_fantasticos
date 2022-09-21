@@ -1,0 +1,16 @@
+﻿@page
+@model Minuta.App.DetalleModel
+@{
+}
+<h1>Informacion detallada de: @Model.DatosUserDetalle.Nombre</h1>
+<div>
+    Id del usuario: @Model.DatosUserDetalle.Id
+</div>
+<div>
+    Edad del usuario: @Model.DatosUserDetalle.Edad
+</div>
+@*<a asp-page="./Login"> Menu Principal</a>*@
+<a asp-page="./Login" class="btn btn-primary table-btn">
+    <i class="fas fa-info-circle"></i>
+    Menu Principal
+</a>
